@@ -12,7 +12,7 @@ public class LearnExeptions {
     }
 }
 
-//Пример использования
+//Код файла Main.java
 //package main;
 //
 //import exeptions.LearnExeptions;
